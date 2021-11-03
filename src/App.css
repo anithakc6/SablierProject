@@ -1,0 +1,8 @@
+.title {
+  text-align: center;
+  font-family: arial, sans-serif;
+  font-size: calc(10px + 2vmin);
+}
+.App-link {
+  color: #2d3436;
+}
